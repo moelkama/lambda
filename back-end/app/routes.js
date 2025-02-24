@@ -2,7 +2,6 @@ const express = require('express');
 const router = express.Router();
 
 // Import controllers
-// const views = require('./views');
 const findOrder = require('./views/find_order');
 // const dynamicForm = require('./dynamic_form');
 // const { createArticle, getArticles, deleteArticle } = require('./article_views');
